@@ -1,4 +1,4 @@
-Code for RFDiffusion AA
+Code for RFDiffusion AA  <i>for local tests and prediction</i> 
 --------------------
 <p align="center">
   <img src="./img/RFDiffusionAA.png" alt="alt text" width="600px"/>
